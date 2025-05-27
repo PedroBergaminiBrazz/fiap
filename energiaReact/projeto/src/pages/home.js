@@ -67,7 +67,7 @@ const Home = () => {
         {/* Vídeo Pitch */}
         <section>
           <h2>Vídeo Pitch</h2>
-          <a href="https://youtu.be/ZI-SB82_DLo" target="_blank" className="btn btn-secondary" rel="noopener noreferrer">Assista ao Vídeo</a>
+          <a href="https://youtu.be/ujLI7-oSa2o" target="_blank" className="btn btn-secondary" rel="noopener noreferrer">Assista ao Vídeo</a>
         </section>
       </main>
 
